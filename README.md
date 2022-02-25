@@ -5,9 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ROS, Machine Learning
+- 🔭 I’m currently working on ROS
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on 
 
 - ⚡ Fun fact: Robots only do what they are programmed
 
