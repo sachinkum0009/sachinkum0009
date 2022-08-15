@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ROS, Reinforcement Learning
-- 🌱 I’m currently learning Flutter, C++
+- 🔭 I’m currently working on ROS, ROS2 Controllers
+- 🌱 I’m currently learning Flutter, C++, Machine Learning
 
 - ⚡ Fun fact: Robots only do what they are programmed
 
