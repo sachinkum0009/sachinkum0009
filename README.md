@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sachin-kumar-aaa263151/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/SachinKum0009">
+<a href="https://x.com/SachinKum0009">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:sachinkum123567@gmail.com">
+<a href="mailto:sachinkumar.ar97@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://sachinkum0009.medium.com">
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 
 ![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=sachinkum0009&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Sachin's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sachinkum0009&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
@@ -44,5 +43,3 @@ Here are some ideas to get you started:
 - [Create ROS2 pkg for C++ and Python files](https://sachinkum0009.medium.com/create-ros2-pkg-for-c-and-python-files-26e95f9bc2c7)
 - [Make ROS enabled Flutter Application Part 1](https://sachinkum0009.medium.com/make-ros-enabled-flutter-application-part-1-d1f3e220e46c)
 <br/>
-
-![Visitor Count](https://profile-counter.glitch.me/sachinkum0009/count.svg)
